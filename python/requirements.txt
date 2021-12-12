@@ -1,0 +1,7 @@
+grpcio
+SQLAlchemy==1.4.27
+psycopg==3.0.5
+psycopg2-binary==2.9.2
+google
+protobuf
+python-decouple==3.5
